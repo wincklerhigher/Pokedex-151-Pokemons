@@ -2,9 +2,11 @@
 
 Uma Pokédex interativa com todos os 151 Pokémons da região de Kanto, construída com React, Vite e Tailwind CSS.
 
-## Screenshots
+## Screenshot
 
 ![Pokédex Screenshot](./public/screenshot.bmp)
+
+- [ACESSE O SITE](https://wincklerhigher.github.io/Pokedex-151-Pokemons/)
 
 ## ✨ Funcionalidades
 
@@ -226,8 +228,6 @@ Este projeto demonstra:
 7. **GitHub Pages** - Deploy de aplicação SPA
 
 ---
-
-- [Acesse o site](https://wincklerhigher.github.io/Pokedex-151-Pokemons/)
 
 ## 🔗 Links úteis
 
