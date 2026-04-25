@@ -4,7 +4,7 @@ Uma Pokédex interativa com todos os 151 Pokémons da região de Kanto, constru�
 
 ## Screenshots
 
-![Pokédex Screenshot](./screenshot.png)
+![Pokédex Screenshot](./public/screenshot.png)
 
 ## ✨ Funcionalidades
 
